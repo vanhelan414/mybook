@@ -2,4 +2,4 @@
 
 Welcome Aboard !
 	This is my online note for the new things i learn :trollface:
-	![](../docs/images/funnynote.jpg)
+	![](https://github.com/vanhelan414/mybook/blob/master/docs/images/funnynote.jpg)
